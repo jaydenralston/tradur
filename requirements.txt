@@ -1,0 +1,6 @@
+# The Python packages that are required to run Tradur.
+# You can install all of them easily with this terminal command: pip install -r requirements.txt
+
+numpy               # Randomised numbers and maths for price simulating.
+pandas              # Data tables and analysis.
+matplotlib          # Graph plotting.
