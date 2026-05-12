@@ -1,6 +1,4 @@
-Tradur - Trading Simulation
-
-Brief Description:
+## Tradur - Trading Simulation
 
 Tradur is a trading simulation software for exploring market making, limit orders, inventory risk and data analysis.
 
@@ -8,7 +6,7 @@ The goal of this project is to build a simple and realistic simulation of how a 
 
 This project is being built from scratch as a way to gain knowledge and experience with quantitative trading, market microstructure, simulation, and performance-focused software engineering.
 
-Planned Features:
+## Planned Features:
 
 - Simulation of asset price movement.
 - Bid and ask quote generation.
@@ -20,7 +18,7 @@ Planned Features:
 - Data analysis.
 - Visualisations of price, inventory and PnL.
 
-Tech Stack:
+## Tech Stack:
 
 - Python.
 - NumPy.
