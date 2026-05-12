@@ -16,7 +16,7 @@ def main():
     pnl_history = []
 
     for current_price in prices:
-        bid_price, ask_price = generate_quotes(current_price, spread = 0.1)
+        bid_price, ask_price = generate_quotes(current_price, spread = 0.1, inventory = bot.inventory, inventory_skew = 0.01)
 
         event = generate_order_event(buy_probability = 0.3, sell_probability = 0.3)
 
