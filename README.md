@@ -1,4 +1,4 @@
-## Tradur - Trading Simulation
+# Tradur - Trading Simulation
 
 Tradur is a trading simulation software for exploring market making, limit orders, inventory risk and data analysis.
 
